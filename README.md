@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there!! 👋 It's my own repository on GitHub! Hope It will be helpful & interestion for U!!👽
+[![Codwears badge](https://www.codewars.com/users/PoznyakKirill/badges/large)](https://www.codewars.com/users/PoznyakKirill)
 <!--
 **KirillPoznyak/KirillPoznyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
